@@ -21,7 +21,7 @@ key = decode(key, 'rot_13')
 
 xored = xored_list(flag, key)
 
-if xored == <Have not decided on it yet>:
+if xored == [7, 12, 0, 57, 15, 24, 19, 71, 60, 83, 8, 3, 65, 24, 88, 83, 15, 43, 2, 3, 83]:
 	print('\n\nSuccess :)')
 else:
 	print('\n\nFailure :(')
