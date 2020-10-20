@@ -9,7 +9,7 @@ Evil twin was furious due to the last failure. This time he claimed that we need
 
 ## Attachments
 
-`https://github.com/ainzs-evil-twin/the-oracle/blob/master/main.py`
+`https://github.com/ainzs-evil-twin/the-oracle/blob/main/main.py`
 
 ## Flag format
 
